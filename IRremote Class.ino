@@ -1,7 +1,12 @@
+/*                  The Car Robot from ELEGOO kit has its own remote on the kit already programmed by the
+                    creators of it. By this program I created, I was able to use the Infrared remote to control
+                    the Car Robot using specifically the buttons that I want and made these respond the way I 
+                    programmed it to. 
 
 
 
-/*------------- This is the Class -----------------*/ 
+                                             /*------------- This is the Class -----------------*/ 
+
 
 #include <IRremote.h> // Include the library for the IRremote
 
