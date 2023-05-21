@@ -1,6 +1,9 @@
-/* 
+/* The Car Robot kit has a program of its own programmed to it to do a line follower. It has been possible because of the photoelectric sensor 
+   connected below it. Yet, the program that is installed to it is complicated. That is why I created a much simpler program using my fundamentals 
+                                    from this class to make my Car Robot follow a line on its own.
+ 
 
--------------------------------------------------------------------- This is the Class -------------------------------------------------------------*/
+--------------------------------------------------------------- This is the Class -------------------------------------------------------------*/
 
 
 #include <Arduino.h>      // Include the Arduino header file
